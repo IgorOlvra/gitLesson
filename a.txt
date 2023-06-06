@@ -1,3 +1,4 @@
 Teste - Midificação 01
-Entendendo o HEAD - Midificação 02
+Entendendo o HEAD - Modificação 02
 Esta linha foi modificada no ramo Master
+Esta linha foi modificada no ramo Teste
